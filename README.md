@@ -1,7 +1,7 @@
 [![Java](https://img.shields.io/badge/Language-Java-blue?style=for-the-badge&logo=java)](https://www.oracle.com/java/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 ![Repo Size](https://img.shields.io/github/repo-size/Sulstice/global-chem)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge)](https://github.com/NexusCoder616/weather-data-reader)
+![Static Badge](https://img.shields.io/badge/Open%20Source-Free%20to%20Use-brightgreen)
 # 🌦️ Weather Data Reader & Summarizer (Java)
 
 This is a simple Java project that demonstrates how to use **Streams** and **Records** (Java 16+) to read, parse, and summarize weather data from a CSV file.
