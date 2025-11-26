@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/Weather%20Project-white?logo=accuweather)
 ![Static Badge](https://img.shields.io/badge/Language-JAVA-orange)
-[![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
+![Static Badge](https://img.shields.io/badge/VS%20Code-Editor-blue)
 ![Repo Size](https://img.shields.io/github/repo-size/Sulstice/global-chem)
 ![Static Badge](https://img.shields.io/badge/Open%20Source-Free%20to%20Use-brightgreen)
 # 🌦️ Weather Data Reader & Summarizer (Java)
